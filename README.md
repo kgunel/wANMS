@@ -1,5 +1,6 @@
 # wANMS
-This repository hosts the implementation of Accelerated Adaptive Nelder–Mead Simplex Method using Weighted Centroids (wANMS).
+This repository hosts the implementation of Accelerated Adaptive Nelder–Mead Simplex Method using Weighted Centroids (wANMS). Furthermore the demos of classical Nelder-Mead Simplex optimization algorithm and the wANMS on 2-dimensional Rastrigin's function have been accessed under the subfolder https://github.com/kgunel/wANMS/demos.
+
 
 Copyright (c) 2021, Korhan Gunel
 
