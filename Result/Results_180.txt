@@ -1,0 +1,41 @@
+Cost Function : Sphere, Range : [-100.000, 100.000], Dimension : 180
+
+	Nelder-Mead after 10000 iterations : 
+		 Best Cost : 2.243e+05
+		 Worst Cost : 2.994e+05
+		 Mean of Costs : 262597.9808 ± 19601.9422
+		 # of Cost function evaluation : 10305
+		 # of Reflection point evaluation : 10000
+		 # of Expansion point evaluation : 124
+		 # of Inside contraction point evaluation : 0
+		 # of Outside contraction point evaluation : 0
+		 # of Shrink point evaluation : 0
+		 Mean of elapsed time : 8.097e-01 ± 7.324e-02
+
+	Adaptive Nelder-Mead after 10000 iterations : 
+		 Best Cost : 1.928e+05
+		 Worst Cost : 2.843e+05
+		 Mean of Costs : 245693.5589 ± 26197.8255
+		 # of Cost function evaluation : 16661
+		 # of Reflection point evaluation : 6480
+		 # of Expansion point evaluation : 6480
+		 # of Inside contraction point evaluation : 0
+		 # of Outside contraction point evaluation : 0
+		 # of Shrink point evaluation : 0
+		 Mean of elapsed time : 9.131e-01 ± 1.054e-01
+
+	Accelerated Adaptive Nelder-Mead  with weighted centroids after 10000 iterations : 
+		 Best Cost : 2.619e+02
+		 Worst Cost : 1.138e+05
+		 Mean of Costs : 58451.1838 ± 45689.9244
+		 # of Cost function evaluation : 19626
+		 # of Reflection point evaluation : 0
+		 # of Expansion point evaluation : 0
+		 # of Inside contraction point evaluation : 6232
+		 # of Outside contraction point evaluation : 3213
+		 # of Shrink point evaluation : 0
+		 Mean of elapsed time : 2.008e+00 ± 2.050e-01
+
+-----------------------------------------------------------------------
+
+
